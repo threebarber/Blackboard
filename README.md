@@ -1,4 +1,2 @@
-# Blackboard-Login
-Blackboard login script for later implementation into bruteforcer
-
+Blackboard bruteforcer  (learning purposes only)
 https://github.com/threebarber/
